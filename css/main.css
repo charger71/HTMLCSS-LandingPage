@@ -43,10 +43,10 @@ section {
 
 .btn {
     cursor: pointer;
-    border: none;
+    border: 0;
     padding: 6px 12px;
-    border-radius: 3px;
     line-height: 1.4;
+    border-radius: 3px;
 }
 
 .btn-default {
